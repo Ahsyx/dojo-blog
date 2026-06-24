@@ -71,4 +71,4 @@ src/
 ---
 
 ### 👤 Author
-**Ashik** — [github.com/Ashik](https://github.com/Ahsyx)
+**Ahsyx** — [github.com/Ahsyx](https://github.com/Ahsyx)
